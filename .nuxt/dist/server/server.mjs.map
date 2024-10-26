@@ -1,1 +1,0 @@
-{"version":3,"file":"server.mjs","sources":["../../../node_modules/.pnpm/nuxt@3.13.2_@parcel+watcher@2.4.1_@types+node@22.8.1_eslint@9.13.0_jiti@2.3.3__ioredis@5.4.1__c5lqjbbxez6hdh2nuyw5aficby/node_modules/nuxt/dist/app/entry-spa.js"],"sourcesContent":["export default () => {\n};\n"],"names":[],"mappings":"AAAA,MAAA,WAAe,MAAM;AACrB;","x_google_ignoreList":[0]}

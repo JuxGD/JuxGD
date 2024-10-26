@@ -1,19 +1,75 @@
-# replicat
-###### AKA Jux, Idoweirdstuff on Geometry Dash
-I have no idea how to code. But I can translate!
+# Nuxt 3 Minimal Starter
 
-## I currently...
-- do translations (spanish to english & vice versa)
-- do [YouTube](https://youtube.com/@juxgd)
-- play Geometry Dash
-- play Minecraft
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## I want...
-- to contribute to [Cloud Client](https://github.com/CloudClientDev/cloudclient)
-- to port [TETR.IO](https://tetr.io) to Nintendo 3DS somehow
-- GD 2.2
-- money
-- free time
+## Setup
 
-### Contact Info
-- Discord: Jux#2213
+Make sure to install the dependencies:
+
+```bash
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
+```
+
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm run dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm run build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm run preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

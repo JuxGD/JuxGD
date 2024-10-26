@@ -1,0 +1,11 @@
+.vscode
+server
+public
+components
+tsconfig.json
+pnpm-lock.yaml
+package.json
+nuxt.config.ts
+app.vue
+.prettierrc
+.eslintrc
